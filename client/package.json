@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/material": "^5.8.5",
+    "@reduxjs/toolkit": "^1.8.2",
+    "axios": "^0.27.2",
+    "react-redux": "^8.0.2",
+    "react-toastify": "^9.0.5"
+  }
+}
